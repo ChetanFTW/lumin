@@ -1,7 +1,7 @@
 
 #  lumin
 
-Welcome to **Lumin**, a collection of modular image processing projects using Python. This repository includes multiple projects exploring classical image processing, creative image-based applications, and experimental features — all under one roof.
+Welcome to **lumin**, a collection of modular image processing projects using Python. This repository includes multiple projects exploring classical image processing, creative image-based applications, and experimental features — all under one roof.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to **Lumin**, a collection of modular image processing projects using Py
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| [Lumin Toolkit](#project-1-lumin-image-processing-toolkit) | Classical image processing using OpenCV and Matplotlib. | [🌐 Demo](https://colab.research.google.com/drive/17omKshuqCpPXawRfmqdeHI9rQGOU4GxI?usp=sharing) |
+| [Lumin Toolkit](#project-1-lumin-image-processing-toolkit) | Classical image processing using OpenCV and Matplotlib. | [ 🌐 ](https://colab.research.google.com/drive/17omKshuqCpPXawRfmqdeHI9rQGOU4GxI?usp=sharing) |
 | [Meme Generator](#project-2-image-based-meme-generator) | Upload an image and generate a meme with custom or auto-generated text. | _N/A_ |
 | [Project 3 (Coming Soon)](#project-3-other-image-processing-project) | A work-in-progress image-related project. More details to be added soon. | _Coming soon_ |
 
@@ -18,7 +18,7 @@ Welcome to **Lumin**, a collection of modular image processing projects using Py
 
 ## 🧠 Project 1: Lumin Image Processing Toolkit
 
-### 📘 Summary
+### ➢ Summary
 
 This project focuses on building a modular image processing toolkit called **Lumin** using classical techniques. It includes:
 
@@ -27,7 +27,7 @@ This project focuses on building a modular image processing toolkit called **Lum
 - Image sharpening using filters
 - Color-based image classification (e.g., water, trees, houses, soil)
 
-### 🧰 Tech Stack
+### ➢ Tech Stack
 
 - `numpy`
 - `pandas`
@@ -35,7 +35,7 @@ This project focuses on building a modular image processing toolkit called **Lum
 - `matplotlib`
 - `glob`
 
-### 🎯 Key Features
+### ➢ Key Features
 
 - ✅ Load and view multiple images
 - ✅ Analyze pixel value distributions
@@ -44,7 +44,7 @@ This project focuses on building a modular image processing toolkit called **Lum
 - ✅ Classify images by HSV color masks
 - ✅ Visualize classified outputs
 
-### 🧪 Tasks Accomplished
+### ➢ Tasks Accomplished
 
 - Loaded and displayed multiple images using `cv2` and `matplotlib`
 - Compared channel order: BGR vs RGB
@@ -52,7 +52,7 @@ This project focuses on building a modular image processing toolkit called **Lum
 - Classified images by HSV ranges for water, trees, houses, and soil
 - Created binary masks and recolored pixels based on category
 
-### 🔮 Potential Extensions
+### ➢ Potential Extensions
 
 - Improve classification accuracy with refined HSV thresholds
 - Add edge detection, blurring, or noise reduction
