@@ -10,8 +10,8 @@ Welcome to **lumin**, a collection of modular image processing projects using Py
 | Project | Description | Demo |
 |---------|-------------|------|
 | [Lumin Toolkit](https://github.com/ChetanFTW/lumin/blob/master/lumin.ipynb) | Classical image processing using OpenCV and Matplotlib. | [ 🌐 ](https://colab.research.google.com/drive/17omKshuqCpPXawRfmqdeHI9rQGOU4GxI?usp=sharing) |
-| [Meme Generator](#project-2-image-based-meme-generator) | Upload an image and generate a meme with custom or auto-generated text. | _N/A_ |
-| [Project 3 (Coming Soon)](#project-3-other-image-processing-project) | A work-in-progress image-related project. More details to be added soon. | _Coming soon_ |
+| [Meme Generator](#project-2-image-based-) | Upload an image and generate a meme with custom or auto-generated text. | _N/A_ |
+| [Project 3 (Coming Soon)](#project-3-other-image) | A work-in-progress image-related project. More details to be added soon. | _Coming soon_ |
 
 
 ---
