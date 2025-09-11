@@ -1,7 +1,7 @@
 
 #  lumin
 
-Welcome to **lumin**!, a collection of modular image processing projects using Python. This repository includes multiple projects exploring classical image processing, creative image-based applications, and experimental features — all under one roof.
+Welcome to **lumin**, a collection of modular image processing projects using Python. This repository includes multiple projects exploring classical image processing, creative image-based applications, and experimental features — all under one roof.
 
 ---
 
@@ -80,5 +80,4 @@ This is a simple meme generation app. Upload an image and either provide your ow
 - 🎨 Render captioned meme
 - 💾 Download the final result
 
-### 📦 Folder Structure ????
 
